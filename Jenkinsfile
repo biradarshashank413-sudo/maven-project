@@ -8,3 +8,4 @@ pipeline {
 			      }
 				}
 	}
+print ("hello world")
