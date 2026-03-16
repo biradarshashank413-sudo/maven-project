@@ -9,3 +9,4 @@ pipeline {
 				}
 	}
 print ("hello world")
+print("hi");
