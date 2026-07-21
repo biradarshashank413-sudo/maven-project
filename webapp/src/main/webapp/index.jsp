@@ -1,1 +1,1 @@
-Hello, Welcome to great leaders from Bangalore and gulbarga kalburagi
+Hello, Welcome to great leaders from Bangalore
